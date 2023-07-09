@@ -8,3 +8,6 @@ I will lump playlists together by topic
 
 ## Data Structures
 1. [CS310, Data Structures in Java at San Diego State University](https://youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk)
+
+## JavaScript
+1. [Working with Data and APIs in JavaScript - The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X)
